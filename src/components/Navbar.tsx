@@ -210,5 +210,5 @@ const Navbar: React.FC = () => {
     </nav>
   );
 };
-
+console.log("VB")
 export default Navbar;
